@@ -1,0 +1,24 @@
+.radio {
+  cursor: pointer;
+  margin-left: 0px;
+  margin-right: 0px;
+  display: flex;
+  padding: 0px;
+}
+.radio__radio {
+  display: flex;
+  margin-left: 0px;
+}
+.question {
+  display: flex;
+}
+.radio__input {
+  width: 20px;
+  height: 20px;
+  display: flex;
+  margin-left: 30px;
+  padding: 0px;
+}
+#text {
+  display: flex;
+}
